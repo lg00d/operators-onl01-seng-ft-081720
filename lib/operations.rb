@@ -1,5 +1,6 @@
 def unsafe?(speed)
-  if unsafe == 
+  if unsafe == "speed"
+    return 
   end
 end
 
