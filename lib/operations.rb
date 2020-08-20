@@ -1,5 +1,7 @@
 def unsafe?(speed)
-  puts 
+  if unsafe
+  return == speed 
+  
 
 end
 
